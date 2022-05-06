@@ -1,0 +1,16 @@
+print("Engenharia de Produção")
+print(10)
+print(3.14)
+print(True)
+print(False)
+
+print(type("Engenharia de Produção"))
+print(type(10))
+print(type(3.14))
+print(type(False))
+print(type(True))
+
+print(type(10))
+print(type(10.0))
+print(type("10"))
+print(type("10.0"))
